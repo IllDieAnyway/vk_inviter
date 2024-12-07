@@ -64,5 +64,5 @@ VK Inviter — это приложение для автоматизации п�
 
 ---
 
-**Автор:** [LostSouls](https://github.com/IllDieAnyway)  
+**Автор:** [LostSouls](https://t.me/lostsouls_crypto)  
 Telegram-бот: [t.me/vk_inviterbot](https://t.me/vk_inviterbot)
